@@ -54,6 +54,60 @@
         }
     },
     {
+        "Name": "Ah Muzen Cab",
+        "Attributes": {
+            "Title:": "God of Bees",
+            "Pantheon:": "Maya",
+            "Type:": "Ranged,Physical",
+            "Class:": "Hunter",
+            "Pros:": "High Movement Speed, High Attack Speed",
+            "Difficulty:": "Average",
+            "Release date:": "November 7, 2013",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Ah Muzen Cab voicelines",
+            "Voice actor:": "Jason Liebrecht",
+            "Health:": "450 (+78)",
+            "Mana:": "230 (+40)",
+            "Speed:": "365 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.95 (+1.7%)",
+            "Damage:": "33 (+ 2.5)+ 100% of Physical Power",
+            "Progression:": "None",
+            "Physical:": "12 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.71)",
+            "MP5:": "4.4 (+0.38)"
+        }
+    },
+    {
+        "Name": "Ah Puch",
+        "Attributes": {
+            "Title:": "Horrific God of Decay",
+            "Pantheon:": "Maya",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "April 28, 2015",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Ah Puch voicelines",
+            "Voice actor:": "Bruce Carey",
+            "Health:": "450 (+75)",
+            "Mana:": "265 (+55)",
+            "Speed:": "365 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.86 (+0.95%)",
+            "Damage:": "35 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "13 (+2.7)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "6 (+0.45)",
+            "MP5:": "4.9 (+0.42)"
+        }
+    },
+    {
         "Name": "Amaterasu",
         "Attributes": {
             "Title:": "The Shining Light",
@@ -132,6 +186,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "7 (+0.45)",
             "MP5:": "4.8 (+0.36)"
+        }
+    },
+    {
+        "Name": "Ao Kuang",
+        "Attributes": {
+            "Title:": "Dragon King of theEastern Seas",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Single Target Damage",
+            "Difficulty:": "Hard",
+            "Release date:": "November 19, 2014",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Ao Kuang voicelines",
+            "Voice actor:": "Kaiji Tang",
+            "Health:": "400 (+82)",
+            "Mana:": "240 (+38)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+1.95%)",
+            "Damage:": "35 (+ 2.4)+ 20% of Magical Power",
+            "Progression:": "1/0.7/0.7/1x Damage and 1/0.5/0.5/1x Swing Time",
+            "Physical:": "12 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "10 (+0.7)",
+            "MP5:": "4.8 (+0.41)"
         }
     },
     {
@@ -378,6 +459,33 @@
         }
     },
     {
+        "Name": "Baba Yaga",
+        "Attributes": {
+            "Title:": "Witch of the Woods",
+            "Pantheon:": "Slavic",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "April 21, 2020",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Baba Yaga voicelines",
+            "Voice actor:": "Jenn Wong",
+            "Health:": "400 (+73)",
+            "Mana:": "280 (+50)",
+            "Speed:": "365 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.95 (+1%)",
+            "Damage:": "35 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "11 (+2.7)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "8 (+0.5)",
+            "MP5:": "5 (+0.6)"
+        }
+    },
+    {
         "Name": "Bacchus",
         "Attributes": {
             "Title:": "God of Wine",
@@ -429,6 +537,60 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "9 (+0.68)",
             "MP5:": "4.8 (+0.46)"
+        }
+    },
+    {
+        "Name": "Bake Kujira",
+        "Attributes": {
+            "Title:": "Yokai of Despair",
+            "Pantheon:": "Japanese",
+            "Type:": "Melee,Magical",
+            "Class:": "Guardian",
+            "Pros:": "High Defense",
+            "Difficulty:": "Average",
+            "Release date:": "December 12, 2023",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Bake Kujira voicelines",
+            "Voice actor:": "Jimmie Yamaguchi",
+            "Health:": "500 (+100)",
+            "Mana:": "200 (+38)",
+            "Speed:": "370 (+0)",
+            "Range:": "14 (+0)",
+            "Attack/Sec:": "1.25 (+0%)",
+            "Damage:": "18 (+ 1.8)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "21 (+3.2)",
+            "Magical:": "27 (+1.3)",
+            "HP5:": "7 (+0.8)",
+            "MP5:": "4.6 (+0.42)"
+        }
+    },
+    {
+        "Name": "Baron Samedi",
+        "Attributes": {
+            "Title:": "God of Life and Death",
+            "Pantheon:": "Voodoo",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Crowd Control, High Sustain, Medium Area Damage",
+            "Difficulty:": "Hard",
+            "Release date:": "June 26, 2018",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Baron Samedi voicelines",
+            "Voice actor:": "Edward Bosco",
+            "Health:": "429 (+80)",
+            "Mana:": "300 (+44)",
+            "Speed:": "360 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.9 (+0.8%)",
+            "Damage:": "34 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "18 (+2.6)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.6)",
+            "MP5:": "5 (+0.45)"
         }
     },
     {
@@ -810,6 +972,33 @@
         }
     },
     {
+        "Name": "Cu Chulainn",
+        "Attributes": {
+            "Title:": "The Hound of Ulster",
+            "Pantheon:": "Celtic",
+            "Type:": "Melee,Physical",
+            "Class:": "Warrior",
+            "Pros:": "High Crowd Control, High Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "June 20, 2017",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Cu Chulainn voicelines",
+            "Voice actor:": "Jared J. Lee",
+            "Health:": "480 (+85)",
+            "Mana:": "100 (+0)",
+            "Speed:": "370 (+0)",
+            "Range:": "16 (+0)",
+            "Attack/Sec:": "1 (+1.25%)",
+            "Damage:": "39 (+ 2)+ 100% of Physical Power",
+            "Progression:": "0.7/0.7/1/ damage and speed; Range of 16",
+            "Physical:": "17 (+3)",
+            "Magical:": "24 (+1.3)",
+            "HP5:": "7 (+0.75)",
+            "MP5:": "0 (+0)"
+        }
+    },
+    {
         "Name": "Cupid",
         "Attributes": {
             "Title:": "God of Love",
@@ -834,6 +1023,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "8 (+0.67)",
             "MP5:": "4.6 (+0.35)"
+        }
+    },
+    {
+        "Name": "Da Ji",
+        "Attributes": {
+            "Title:": "The Nine-Tailed Fox",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Physical",
+            "Class:": "Assassin",
+            "Pros:": "High Single Target Damage",
+            "Difficulty:": "Average",
+            "Release date:": "May 24, 2017",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Da Ji voicelines",
+            "Voice actor:": "Mallorie Rodak",
+            "Health:": "450 (+76)",
+            "Mana:": "210 (+40)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+2%)",
+            "Damage:": "39 (+ 2.25)+ 100% of Physical Power",
+            "Progression:": "1/1/1x damage and swing time",
+            "Physical:": "14 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "9 (+0.7)",
+            "MP5:": "4.6 (+0.37)"
         }
     },
     {
@@ -888,6 +1104,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "7 (+0.45)",
             "MP5:": "5 (+0.43)"
+        }
+    },
+    {
+        "Name": "Erlang Shen",
+        "Attributes": {
+            "Title:": "The Illustrious Sage",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Physical",
+            "Class:": "Warrior",
+            "Pros:": "High Single Target Damage, High Attack Speed",
+            "Difficulty:": "Average",
+            "Release date:": "July 6, 2016",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Erlang Shen voicelines",
+            "Voice actor:": "Brandon Mcinnis",
+            "Health:": "475 (+82)",
+            "Mana:": "220 (+35)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+1%)",
+            "Damage:": "39 (+ 2)+ 100% of Physical Power",
+            "Progression:": ".75/.75/.75/1.1/.9x damage and swing time; 4th attack hits all enemies in an AoE",
+            "Physical:": "17 (+3)",
+            "Magical:": "24 (+1.3)",
+            "HP5:": "8 (+0.6)",
+            "MP5:": "4.7 (+0.3)"
         }
     },
     {
@@ -1080,6 +1323,33 @@
         }
     },
     {
+        "Name": "Guan Yu",
+        "Attributes": {
+            "Title:": "Saint of War",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Physical",
+            "Class:": "Warrior",
+            "Pros:": "High Sustain, High Mobility",
+            "Difficulty:": "Average",
+            "Release date:": "June 29, 2012",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Guan Yu voicelines",
+            "Voice actor:": "Mark Stoddard",
+            "Health:": "480 (+87)",
+            "Mana:": "220 (+39)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+1.2%)",
+            "Damage:": "37 (+ 2)+ 100% of Physical Power",
+            "Progression:": "1/1/1.3/1.75x damage and swing time",
+            "Physical:": "17 (+3)",
+            "Magical:": "24 (+1.3)",
+            "HP5:": "6 (+0.7)",
+            "MP5:": "4.8 (+0.45)"
+        }
+    },
+    {
         "Name": "Hachiman",
         "Attributes": {
             "Title:": "Lord of the Eight Banners",
@@ -1131,6 +1401,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "5 (+0.54)",
             "MP5:": "5 (+0.36)"
+        }
+    },
+    {
+        "Name": "He Bo",
+        "Attributes": {
+            "Title:": "God of the Yellow River",
+            "Pantheon:": "Chinese",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "Medium Crowd Control, High Area Damage",
+            "Difficulty:": "Easy",
+            "Release date:": "May 31, 2012",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "He Bo voicelines",
+            "Voice actor:": "Christopher Sabat",
+            "Health:": "425 (+75)",
+            "Mana:": "298 (+56)",
+            "Speed:": "360 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.86 (+0.9%)",
+            "Damage:": "34 (+ 1.45)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "9 (+2.6)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "6 (+0.45)",
+            "MP5:": "4.9 (+0.4)"
         }
     },
     {
@@ -1269,6 +1566,60 @@
         }
     },
     {
+        "Name": "Hou Yi",
+        "Attributes": {
+            "Title:": "Defender of the Earth",
+            "Pantheon:": "Chinese",
+            "Type:": "Ranged,Physical",
+            "Class:": "Hunter",
+            "Pros:": "High Single Target Damage, High Area Damage",
+            "Difficulty:": "Hard",
+            "Release date:": "January 14, 2015",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Hou Yi voicelines",
+            "Voice actor:": "Austin Tindle",
+            "Health:": "480 (+78)",
+            "Mana:": "240 (+38)",
+            "Speed:": "370 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.95 (+1.4%)",
+            "Damage:": "35 (+ 2.8)+ 100% of Physical Power",
+            "Progression:": "None",
+            "Physical:": "13 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "8 (+0.68)",
+            "MP5:": "5 (+0.35)"
+        }
+    },
+    {
+        "Name": "Hun Batz",
+        "Attributes": {
+            "Title:": "The Howler Monkey God",
+            "Pantheon:": "Maya",
+            "Type:": "Melee,Physical",
+            "Class:": "Assassin",
+            "Pros:": "High Single Target Damage",
+            "Difficulty:": "Easy",
+            "Release date:": "May 31, 2012",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Hun Batz voicelines",
+            "Voice actor:": "Brad M. Jackson",
+            "Health:": "460 (+75)",
+            "Mana:": "220 (+38)",
+            "Speed:": "370 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+1.89%)",
+            "Damage:": "38 (+ 2.16)+ 100% of Physical Power",
+            "Progression:": "1/.75/1.25x damage",
+            "Physical:": "13 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "10 (+0.68)",
+            "MP5:": "4.4 (+0.38)"
+        }
+    },
+    {
         "Name": "Ishtar",
         "Attributes": {
             "Title:": "Goddess of Love and War",
@@ -1293,6 +1644,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "7 (+0.7)",
             "MP5:": "4.5 (+0.38)"
+        }
+    },
+    {
+        "Name": "Ix Chel",
+        "Attributes": {
+            "Title:": "The Light Weaver",
+            "Pantheon:": "Maya",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Crowd Control, High Sustain, Medium Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "April 18, 2023",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Ix Chel voicelines",
+            "Voice actor:": "Pilar Uribe",
+            "Health:": "380 (+80)",
+            "Mana:": "300 (+44)",
+            "Speed:": "360 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.9 (+0.8%)",
+            "Damage:": "35 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "12 (+2.8)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.6)",
+            "MP5:": "5 (+0.45)"
         }
     },
     {
@@ -1347,6 +1725,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "6 (+0.45)",
             "MP5:": "5 (+0.45)"
+        }
+    },
+    {
+        "Name": "Jing Wei",
+        "Attributes": {
+            "Title:": "The Oathkeeper",
+            "Pantheon:": "Chinese",
+            "Type:": "Ranged,Physical",
+            "Class:": "Hunter",
+            "Pros:": "High Mobility",
+            "Difficulty:": "Easy",
+            "Release date:": "April 12, 2016",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Jing Wei voicelines",
+            "Voice actor:": "Alison Viktorin",
+            "Health:": "435 (+78)",
+            "Mana:": "205 (+36)",
+            "Speed:": "370 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "1 (+1.6%)",
+            "Damage:": "33 (+ 2.7)+ 100% of Physical Power",
+            "Progression:": "None",
+            "Physical:": "11 (+2.9)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.68)",
+            "MP5:": "4.4 (+0.3)"
         }
     },
     {
@@ -1428,6 +1833,33 @@
             "Magical:": "27 (+1.3)",
             "HP5:": "8 (+0.8)",
             "MP5:": "4.6 (+0.4)"
+        }
+    },
+    {
+        "Name": "King Arthur",
+        "Attributes": {
+            "Title:": "Wielder of Excalibur",
+            "Pantheon:": "Arthurian",
+            "Type:": "Melee,Physical",
+            "Class:": "Warrior",
+            "Pros:": "High Crowd Control, High Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "January 7, 2019",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "King Arthur voicelines",
+            "Voice actor:": "Xander Mobus",
+            "Health:": "485 (+83)",
+            "Mana:": "230 (+40)",
+            "Speed:": "370 (+0)",
+            "Range:": "16 (+0)",
+            "Attack/Sec:": "1 (+0%)",
+            "Damage:": "39 (+ 2)+ 100% of Physical Power",
+            "Progression:": "1x damage, .33x in AoE. Lunge when no target is in range.",
+            "Physical:": "17 (+3)",
+            "Magical:": "24 (+1.3)",
+            "HP5:": "9 (+0.8)",
+            "MP5:": "4.4 (+0.4)"
         }
     },
     {
@@ -1563,6 +1995,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "8 (+0.7)",
             "MP5:": "4.2 (+0.35)"
+        }
+    },
+    {
+        "Name": "Maman Brigitte",
+        "Attributes": {
+            "Title:": "Protector of the Dead",
+            "Pantheon:": "Voodoo",
+            "Type:": "Melee,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Single Target Damage",
+            "Difficulty:": "Average",
+            "Release date:": "September 26, 2023",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Maman Brigitte voicelines",
+            "Voice actor:": "Zuri Washington",
+            "Health:": "407 (+77)",
+            "Mana:": "240 (+36)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+1.8%)",
+            "Damage:": "35 (+ 2.4)+ 20% of Magical Power",
+            "Progression:": "0.5/0.5/1x damage and swing time",
+            "Physical:": "12 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "10 (+0.46)",
+            "MP5:": "4.8 (+0.4)"
         }
     },
     {
@@ -1755,6 +2214,33 @@
         }
     },
     {
+        "Name": "Ne Zha",
+        "Attributes": {
+            "Title:": "The Third Lotus Prince",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Physical",
+            "Class:": "Assassin",
+            "Pros:": "High Single Target Damage, Medium Crowd Control",
+            "Difficulty:": "Average",
+            "Release date:": "April 17, 2013",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Ne Zha voicelines",
+            "Voice actor:": "Colleen Clinkenbeard",
+            "Health:": "400 (+75)",
+            "Mana:": "200 (+35)",
+            "Speed:": "375 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "1 (+2.1%)",
+            "Damage:": "39 (+ 2.2)+ 100% of Physical Power",
+            "Progression:": "1/1/1.5/2x damage and swing time, hitting in an AoE on the final blow",
+            "Physical:": "12 (+2.9)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "10 (+0.71)",
+            "MP5:": "3.9 (+0.27)"
+        }
+    },
+    {
         "Name": "Neith",
         "Attributes": {
             "Title:": "Weaver of Fate",
@@ -1860,6 +2346,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "8 (+0.6)",
             "MP5:": "5 (+0.4)"
+        }
+    },
+    {
+        "Name": "Nu Wa",
+        "Attributes": {
+            "Title:": "Guardian of Heaven",
+            "Pantheon:": "Chinese",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "Pusher",
+            "Difficulty:": "Easy",
+            "Release date:": "December 5, 2013",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Nu Wa voicelines",
+            "Voice actor:": "Stephanie Young",
+            "Health:": "400 (+75)",
+            "Mana:": "265 (+43)",
+            "Speed:": "355 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "1 (+1.7%)",
+            "Damage:": "35 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "9 (+2.7)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.45)",
+            "MP5:": "4.6 (+0.43)"
         }
     },
     {
@@ -2538,6 +3051,33 @@
         }
     },
     {
+        "Name": "The Morrigan",
+        "Attributes": {
+            "Title:": "Phantom Queen",
+            "Pantheon:": "Celtic",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "High Area Damage",
+            "Difficulty:": "Very Hard",
+            "Release date:": "January 10, 2017",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "The Morrigan voicelines",
+            "Voice actor:": "Elizabeth Maxwell",
+            "Health:": "450 (+75)",
+            "Mana:": "250 (+38)",
+            "Speed:": "365 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.87 (+1%)",
+            "Damage:": "34 (+ 2.4)+ 20% of Magical Power",
+            "Progression:": "1/1/1x damage and swing time; 3rd attack hits all enemies in a 10 unit area",
+            "Physical:": "14 (+3)",
+            "Magical:": "25 (+1.3)",
+            "HP5:": "10 (+0.7)",
+            "MP5:": "4.5 (+0.4)"
+        }
+    },
+    {
         "Name": "Thor",
         "Attributes": {
             "Title:": "God of Thunder",
@@ -2781,6 +3321,33 @@
         }
     },
     {
+        "Name": "Xing Tian",
+        "Attributes": {
+            "Title:": "The Relentless",
+            "Pantheon:": "Chinese",
+            "Type:": "Melee,Magical",
+            "Class:": "Guardian",
+            "Pros:": "High Crowd Control",
+            "Difficulty:": "Average",
+            "Release date:": "September 1, 2015",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Xing Tian voicelines",
+            "Voice actor:": "Leo Fabian",
+            "Health:": "495 (+90)",
+            "Mana:": "200 (+40)",
+            "Speed:": "360 (+0)",
+            "Range:": "12 (+0)",
+            "Attack/Sec:": "0.9 (+1.2%)",
+            "Damage:": "35 (+ 1.55)+ 20% of Magical Power",
+            "Progression:": "1/1/1/1x damage and swing time",
+            "Physical:": "20 (+3.4)",
+            "Magical:": "27 (+1.3)",
+            "HP5:": "5 (+0.54)",
+            "MP5:": "4.5 (+0.45)"
+        }
+    },
+    {
         "Name": "Yemoja",
         "Attributes": {
             "Title:": "Goddess of Rivers",
@@ -2835,6 +3402,33 @@
         }
     },
     {
+        "Name": "Yu Huang",
+        "Attributes": {
+            "Title:": "The Jade Emperor",
+            "Pantheon:": "Chinese",
+            "Type:": "Magical,Ranged",
+            "Class:": "Mage",
+            "Pros:": "High Area Damage",
+            "Difficulty:": "Average",
+            "Release date:": "April 19, 2022",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Yu Huang voicelines",
+            "Voice actor:": "Cory Yee",
+            "Health:": "400 (+77)",
+            "Mana:": "280 (+55)",
+            "Speed:": "355 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.99 (+1.2%)",
+            "Damage:": "35 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "12 (+3)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "7 (+0.47)",
+            "MP5:": "4.7 (+0.44)"
+        }
+    },
+    {
         "Name": "Zeus",
         "Attributes": {
             "Title:": "God of the Sky",
@@ -2859,6 +3453,33 @@
             "Magical:": "23 (+1.3)",
             "HP5:": "6 (+0.45)",
             "MP5:": "4.6 (+0.45)"
+        }
+    },
+    {
+        "Name": "Zhong Kui",
+        "Attributes": {
+            "Title:": "The Demon Queller",
+            "Pantheon:": "Chinese",
+            "Type:": "Ranged,Magical",
+            "Class:": "Mage",
+            "Pros:": "Medium Crowd Control, High Area Damage",
+            "Difficulty:": "Easy",
+            "Release date:": "August 28, 2013",
+            "Favor:": "5,500",
+            "Gems:": "200",
+            "Voicelines:": "Zhong Kui voicelines",
+            "Voice actor:": "Daniel Penz",
+            "Health:": "450 (+85)",
+            "Mana:": "250 (+47)",
+            "Speed:": "360 (+0)",
+            "Range:": "55 (+0)",
+            "Attack/Sec:": "0.95 (+1%)",
+            "Damage:": "33 (+ 1.5)+ 20% of Magical Power",
+            "Progression:": "None",
+            "Physical:": "10 (+2.6)",
+            "Magical:": "23 (+1.3)",
+            "HP5:": "6 (+0.44)",
+            "MP5:": "4.8 (+0.45)"
         }
     }
 ]

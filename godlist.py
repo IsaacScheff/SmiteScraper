@@ -1,16 +1,17 @@
 # List of god names
 godlist = [
-    'achilles', 'agni', 'ah_muzen_cab', 'ah_puch', 'amaterasu', 'anhur', 'anubis', 'ao_kuang', 'aphrodite', 'apollo',
-    'arachne', 'ares', 'artemis', 'artio', 'athena', 'atlas', 'awilix', 'baba_yaga', 'bacchus', 'bakasura',
-    'bake_kujira', 'baron_samedi', 'bastet', 'bellona', 'cabrakan', 'camazotz', 'cerberus', 'chaac', 'chang%27e',
-    'charon', 'charybdis', 'chernobog', 'chiron', 'chronos', 'cliodhna', 'cthulhu', 'cu_chulainn', 'cupid', 'da_ji',
-    'danzaburou', 'discordia', 'erlang_shen', 'eset', 'fafnir', 'fenrir', 'freya', 'ganesha', 'geb', 'gilgamesh',
-    'guan_yu', 'hachiman', 'hades', 'he_bo', 'heimdallr', 'hel', 'hera', 'hercules', 'horus', 'hou_yi', 'hun_batz',
-    'ishtar', 'ix_chel', 'izanami', 'janus', 'jing_wei', 'jormungandr', 'kali', 'khepri', 'king_arthur', 'kukulkan',
-    'kumbhakarna', 'kuzenbo', 'lancelot', 'loki', 'maman_brigitte', 'martichoras', 'maui', 'medusa', 'mercury',
-    'merlin', 'morgan_le_fay', 'mulan', 'ne_zha', 'neith', 'nemesis', 'nike', 'nox', 'nu_wa', 'nut', 'odin', 'olorun',
-    'osiris', 'pele', 'persephone', 'poseidon', 'ra', 'raijin', 'rama', 'ratatoskr', 'ravana', 'scylla', 'serqet',
-    'set', 'shiva', 'skadi', 'sobek', 'sol', 'sun_wukong', 'surtr', 'susano', 'sylvanus', 'terra', 'thanatos',
-    'the_morrigan', 'thor', 'thoth', 'tiamat', 'tsukuyomi', 'tyr', 'ullr', 'vamana', 'vulcan', 'xbalanque', 'xing_tian',
-    'yemoja', 'ymir', 'yu_huang', 'zeus', 'zhong_kui'
-]
+    'Achilles', 'Agni', 'Ah_Muzen_Cab', 'Ah_Puch', 'Amaterasu', 'Anhur', 'Anubis', 'Ao_Kuang', 'Aphrodite', 
+    'Apollo', 'Arachne', 'Ares', 'Artemis', 'Artio', 'Athena', 'Atlas', 'Awilix', 'Baba_Yaga', 
+    'Bacchus', 'Bakasura', 'Bake_Kujira', 'Baron_Samedi', 'Bastet', 'Bellona', 'Cabrakan', 'Camazotz', 'Cerberus', 
+    'Chaac', 'Chang%27e', 'Charon', 'Charybdis', 'Chernobog', 'Chiron', 'Chronos', 'Cliodhna', 'Cthulhu', 
+    'Cu_Chulainn', 'Cupid', 'Da_Ji', 'Danzaburou', 'Discordia', 'Erlang_Shen', 'Eset', 'Fafnir', 'Fenrir', 
+    'Freya', 'Ganesha', 'Geb', 'Gilgamesh', 'Guan_Yu', 'Hachiman', 'Hades', 'He_Bo', 'Heimdallr', 'Hel', 
+    'Hera', 'Hercules', 'Horus', 'Hou_Yi', 'Hun_Batz', 'Ishtar', 'Ix_Chel', 'Izanami', 'Janus', 'Jing_Wei', 
+    'Jormungandr', 'Kali', 'Khepri', 'King_Arthur', 'Kukulkan', 'Kumbhakarna', 'Kuzenbo', 'Lancelot', 'Loki', 
+    'Maman_Brigitte', 'Martichoras', 'Maui', 'Medusa', 'Mercury', 'Merlin', 'Morgan_Le_Fay', 'Mulan', 'Ne_Zha', 
+    'Neith', 'Nemesis', 'Nike', 'Nox', 'Nu_Wa', 'Nut', 'Odin', 'Olorun', 'Osiris', 'Pele', 'Persephone', 
+    'Poseidon', 'Ra', 'Raijin', 'Rama', 'Ratatoskr', 'Ravana', 'Scylla', 'Serqet', 'Set', 'Shiva', 'Skadi', 
+    'Sobek', 'Sol', 'Sun_Wukong', 'Surtr', 'Susano', 'Sylvanus', 'Terra', 'Thanatos', 'The_Morrigan', 'Thor', 
+    'Thoth', 'Tiamat', 'Tsukuyomi', 'Tyr', 'Ullr', 'Vamana', 'Vulcan', 'Xbalanque', 'Xing_Tian', 
+    'Yemoja', 'Ymir', 'Yu_Huang', 'Zeus', 'Zhong_Kui'
+ ]
