@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from godlist import godlist
+from constants import GODLIST, BASE_URL
 
 all_gods_data = []
 
 # Loop through each god in the list
-for god in godlist:
-    url = f'https://smite.fandom.com/wiki/{god}'
+for god in GODLIST:
+    url = f'{BASE_URL}{god}'
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')

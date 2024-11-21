@@ -1,5 +1,4 @@
-# List of god names
-godlist = [
+GODLIST = [
     'Achilles', 'Agni', 'Ah_Muzen_Cab', 'Ah_Puch', 'Amaterasu', 'Anhur', 'Anubis', 'Ao_Kuang', 'Aphrodite', 
     'Apollo', 'Arachne', 'Ares', 'Artemis', 'Artio', 'Athena', 'Atlas', 'Awilix', 'Baba_Yaga', 
     'Bacchus', 'Bakasura', 'Bake_Kujira', 'Baron_Samedi', 'Bastet', 'Bellona', 'Cabrakan', 'Camazotz', 'Cerberus', 
@@ -15,3 +14,5 @@ godlist = [
     'Thoth', 'Tiamat', 'Tsukuyomi', 'Tyr', 'Ullr', 'Vamana', 'Vulcan', 'Xbalanque', 'Xing_Tian', 
     'Yemoja', 'Ymir', 'Yu_Huang', 'Zeus', 'Zhong_Kui'
  ]
+
+BASE_URL = 'https://smite.fandom.com/wiki/'

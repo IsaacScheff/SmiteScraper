@@ -1,10 +1,7 @@
 import os
 import requests
 from bs4 import BeautifulSoup
-from godlist import godlist
-
-#godlist = ['achilles', 'agni']  # Example god list for testing
-base_url = 'https://smite.fandom.com/wiki/'
+from constants import GODLIST, BASE_URL
 
 # Ensure the images directory exists
 os.makedirs('images', exist_ok=True)
@@ -18,14 +15,25 @@ def save_image(image_url, filename):
         print(f"Failed to download {filename}")
 
 # Loop through each god in the list
-for god in godlist:
-    url = f'{base_url}{god}'
+for god in GODLIST:
+    url = f'{BASE_URL}{god}'
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Format the god's name for the main image by capitalizing after each underscore
+        formatted_name = ''.join(word.capitalize() for word in god.split('_'))
+        
+        # Create potential names to check for the main image, considering versions
+        possible_alts = [f"SkinArt {formatted_name} Default", f"SkinArt {formatted_name} Default V2", f"SkinArt {formatted_name} Default V3"]
+        
+        # Check each potential alt text until the correct image is found
+        main_image = None
+        for alt_text in possible_alts:
+            main_image = soup.find('img', alt=alt_text)
+            if main_image:
+                break
 
-        # Find the main god image using the data-src attribute
-        main_image = soup.find('img', alt=f"SkinArt {god.capitalize()} Default")
         if main_image and 'data-src' in main_image.attrs:
             image_url = main_image['data-src']
             save_image(image_url, f'images/{god}.png')
