@@ -21,9 +21,13 @@ for god in GODLIST:
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Format the god's name for the main image by capitalizing after each underscore
+        # Format the god's name for the main image by capitalizing after each underscore and handling encoded apostrophes
         formatted_name = ''.join(word.capitalize() for word in god.split('_'))
-        
+        if "%27" in formatted_name:
+            apostrophe_index = formatted_name.find("%27")
+            if apostrophe_index != -1 and apostrophe_index + 3 < len(formatted_name):
+                formatted_name = formatted_name[:apostrophe_index] + formatted_name[apostrophe_index+3].upper() + formatted_name[apostrophe_index+4:]
+
         # Create potential names to check for the main image, considering versions
         possible_alts = [f"SkinArt {formatted_name} Default", f"SkinArt {formatted_name} Default V2", f"SkinArt {formatted_name} Default V3"]
         
