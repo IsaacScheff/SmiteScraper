@@ -22,7 +22,7 @@ for god in GODLIST:
             for row in infobox.find_all('tr'):
                 header = row.find('th')
                 if header and header.get('colspan') != '2' and not header.find_parent('th', class_='header'):
-                    key = header.text.strip(':').strip()
+                    key = header.text.replace(':', '').strip()
                     value = row.find('td').text.strip()
                     character_data["Attributes"][key] = value
 
