@@ -2,11 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+from constants import BASE_URL, CONSUMABLE_ITEMS
 
-BASE_URL = "https://smite.fandom.com/wiki/"
-
-def fetch_consumable_details():
-    url = f"{BASE_URL}Healing_Potion"  # just testing on Healing Potion for now
+def fetch_consumable_details(consumable_name):
+    url = f"{BASE_URL}{consumable_name.replace(' ', '_')}"  # Format the URL properly
     response = requests.get(url)
     consumable_data = {}
 
@@ -38,6 +37,18 @@ def fetch_consumable_details():
 
     return consumable_data
 
-# Usage
-consumable_details = fetch_consumable_details()
-print(json.dumps(consumable_details, indent=4))
+def main():
+    all_consumable_details = []
+    for item in CONSUMABLE_ITEMS:
+        details = fetch_consumable_details(item)
+        if details:
+            all_consumable_details.append(details)
+
+    # Save to JSON file
+    with open('consumable_details.json', 'w') as f:
+        json.dump(all_consumable_details, f, indent=4)
+
+    print("Consumable details fetched and saved.")
+
+if __name__ == "__main__":
+    main()

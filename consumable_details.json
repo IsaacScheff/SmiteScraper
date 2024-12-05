@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Baba's Brew",
+        "cost": "",
+        "active_effect": "A potion swirling with undetermined magics brewed by Baba Yaga.",
+        "notes": [
+            "Players can only carry one of this item at a time.",
+            "This item is exclusive to Baba Yaga. She gains one when her Baba's Brew ability is cancelled. Using it will recast the ability with the same ingredients.",
+            "The icon changes based on the dominant ingredient (Blue for Dragon Scale, Green for Wolf Tooth and Red for Eye of Newt). If no ingredient is dominant it will be grey instead."
+        ]
+    },
+    {
+        "name": "Runic Bomb",
+        "cost": "",
+        "active_effect": "This consumable deals 300 Physical damage and applies Knockback to enemies, plus 1000 True damage to Minions and Structures while reducing their Attack Speed by 35% for 10 seconds.",
+        "notes": [
+            "Can only be obtained as a drop from the Pyromancer in Conquest.",
+            "Appears as a pickup on the monster's death which can only be taken by someone from the team that dealt the last hit and who has at least one empty consumable slot.",
+            "Can be sold for 33 Gold."
+        ]
+    },
+    {
+        "name": "Healing Potion",
+        "cost": "50",
+        "active_effect": "This consumable heals 250 Health over 25 seconds.",
+        "notes": [
+            "Players can only carry up to 5 of this item at a time.",
+            "This consumable grants +50 HP5 for the duration.",
+            "Using a Healing Potion while another one or  Chalice of Healing are still in effect does not increase the healing factor, but it extends its duration.",
+            "The effect stacks with  Baron's Brew,  Mana Potion and  Multi Potion."
+        ]
+    },
+    {
+        "name": "Mana Potion",
+        "cost": "50",
+        "active_effect": "This consumable heals 150 Mana over 25 seconds.",
+        "notes": [
+            "Players can only carry up to 5 of this item at a time.",
+            "This consumable grants +30 MP5 for the duration.",
+            "Using a Mana Potion while another one is still in effect does not increase the regeneration factor, but it extends its duration.",
+            "The effect stacks with  Baron's Brew,  Chalice of Healing/ Healing Potion and  Multi Potion.",
+            "This consumable is disabled for Cu Chulainn and Yemoja since they do not use mana."
+        ]
+    },
+    {
+        "name": "Multi Potion",
+        "cost": "50",
+        "active_effect": "This consumable heals 125 Health and 75 Mana over 25 seconds.",
+        "notes": [
+            "Players can only carry up to 5 of this item at a time.",
+            "This consumable grants +25 HP5 and +15 MP5 for the duration.",
+            "Using a Multi Potion while another one is still in effect does not increase the healing/regeneration factor, but it extends its duration.",
+            "The effect stacks with  Baron's Brew,  Chalice of Healing/ Healing Potion and  Mana Potion.",
+            "The mana regeneration does not affect Cu Chulainn and Yemoja since they do not use mana."
+        ]
+    },
+    {
+        "name": "Ward",
+        "cost": "50",
+        "active_effect": "This is a ward that allows you to see normal enemy movements with 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed.",
+        "notes": [
+            "Has a deploy range of 55.",
+            "Players can only carry up to 2 of this item at a time.",
+            "Each player can only place up to 2 wards of any kind at a time. Placing more than 2 wards will cause the oldest one to be destroyed.",
+            "Wards are invisible, but can be revealed by Sentry Wards. Revealed wards can be destroyed with 3 basic attacks. Killing a ward rewards 50 gold.",
+            "Wards are revealed for 1s when placed, but are not targetable."
+        ]
+    },
+    {
+        "name": "Proximity Ward",
+        "cost": "75",
+        "active_effect": "This is a ward that allows you to see enemy movements within 20 units. It does respect line of sight and can't see through walls or stealth. If an enemy god enters its vision range, the ward will explode after 1.5s in a 45 unit radius, Slowing enemy gods by 20% for 3s and revealing them for 10s. It remains for 5 minutes or until killed. Can only carry one at a time. Unlocks at level 5.",
+        "notes": [
+            "Has a deploy range of 55.",
+            "Proximity Wards are invisible, but can be revealed by Sentry Wards. Revealed Proximity wards can be destroyed with 3 basic attacks. Killing a ward rewards 50 gold.",
+            "Proximity Wards are revealed for 1s when placed, but are not targetable."
+        ]
+    },
+    {
+        "name": "Raven Ward",
+        "cost": "75",
+        "active_effect": "This is a ward that flies along a 500 unit line that allows you to see enemy movements within 50 units. It does not respect line of sight but can't see through stealth. Can only carry one at a time.",
+        "notes": []
+    },
+    {
+        "name": "Sentry Ward",
+        "cost": "120",
+        "active_effect": "This is a ward that allows you to see enemy movements and other wards within 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed. Can only carry one at a time.",
+        "notes": [
+            "Has a deploy range of 55.",
+            "Sentry wards do not reveal invisible gods nor units, only wards (including those from  Ward,  Proximity Ward,  Chalice of the Oracle and  Vision Shard.)",
+            "Each player can only place up to 2 wards of any kind at a time. Placing more than 2 wards will cause the oldest one to be destroyed.",
+            "Sentry Wards are invisible, but can be revealed by other Sentry Wards. Revealed wards can be destroyed with 3 basic attacks. Killing a ward rewards 50 gold.",
+            "Sentry Wards are revealed for 1s when placed, but are not targetable."
+        ]
+    },
+    {
+        "name": "Baron's Brew",
+        "cost": "150",
+        "active_effect": "Rum from Baron Samedi's personal cabinet. This consumable heals 140 Health and 100 Mana over 20 seconds per use. Comes with 3 uses that are refilled if you enter the Fountain, sells for 0 gold.",
+        "notes": [
+            "This item is only available to players who have a Baron Samedi in their team.",
+            "Players can only carry one of this item at a time.",
+            "This consumable grants +35 HP5 and +25 MP5 for the duration.",
+            "Consuming a charge from this brew while another one is still in effect does not increase the healing/regeneration factor, but it extends its duration (to a maximum of 60s with all three charges).",
+            "Refilling the brew on a fountain will remove any charges currently in effect.",
+            "The effect stacks with  Chalice of Healing/ Healing Potion,  Mana Potion, and  Multi Potion.",
+            "The mana regeneration does not affect Cu Chulainn and Yemoja since they do not use mana."
+        ]
+    },
+    {
+        "name": "Chalice of Healing",
+        "cost": "300",
+        "active_effect": "This consumable heals 250 Health over 25 seconds per use. Comes with 3 uses that are refilled if you enter the Fountain, sells for 0 gold.",
+        "notes": [
+            "Players can only carry one of this item at a time.",
+            "This consumable grants +50 HP5 for the duration.",
+            "Consuming a charge from this chalice while another one or a  Healing Potion are still in effect does not increase the healing factor, but it extends its duration. (to a maximum of 75s with all three charges).",
+            "Refilling the chalice on a fountain will remove any charges currently in effect.",
+            "The effect stacks with  Baron's Brew,  Mana Potion and  Multi Potion."
+        ]
+    },
+    {
+        "name": "Chalice of the Oracle",
+        "cost": "400",
+        "active_effect": "This consumable places a ward that allows you to see normal enemy movements with 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed. Comes with 2 uses that are refilled in Fountain, sells for 0 gold.",
+        "notes": [
+            "Has a deploy range of 55.",
+            "Players can only carry one of this item at a time.",
+            "Each player can only place up to 2 wards of any kind at a time. Placing more than 2 wards will cause the oldest one to be destroyed.",
+            "Wards are invisible, but can be revealed by Sentry Wards. Revealed wards can be destroyed with 3 basic attacks. Killing a ward rewards 50 gold.",
+            "Wards are revealed for 1s when placed, but are not targetable."
+        ]
+    },
+    {
+        "name": "Potion of Power",
+        "cost": "500",
+        "active_effect": "This consumable increases your Physical Power by 40, Magical Power by 70 and Penetration by 10 for 5 minutes or until you are killed.",
+        "notes": [
+            "Players can only carry up to 5 of this item at a time.",
+            "Using a Potion of Power while another one is still in effect does not increase the effect, but it extends its duration."
+        ]
+    },
+    {
+        "name": "Elixir of Defense",
+        "cost": "3000",
+        "active_effect": "This consumable provides 50 Magical and Physical Protection, 10% Damage Mitigation, 20% Crowd Control Reduction, and decreases damage taken from Structures by 25% for 6 minutes. This effect persists through death.",
+        "notes": [
+            "Players can only carry up to 5 of this item at a time.",
+            "Using an Elixir of Defense while another one is still in effect does not increase the effect, but it extends its duration."
+        ]
+    },
+    {
+        "name": "Elixir of Power",
+        "cost": "3000",
+        "active_effect": "This consumable increases your Magical and Physical Power by 25%, increases damage done to Structures by 25%, and grants 10% Penetration for 6 minutes. This effect persists through death.",
+        "notes": [
+            "The bonus is based on current Physical or Magical Power.",
+            "Players can only carry up to 5 of this item at a time.",
+            "Using an Elixir of Power while another one is still in effect does not increase the effect, but it extends its duration.",
+            "This item effect multiplies basic attacks damage by 1.25. So it goes from \"base damage + 100% physical power or 20% of magical power\"  to \"base damage*1.25 + 100% of physical power or 20% of magical power\"."
+        ]
+    }
+]
