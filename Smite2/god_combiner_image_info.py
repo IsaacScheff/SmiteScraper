@@ -1,7 +1,7 @@
 import json
 
 # Load your existing JSON data
-with open('smite_2_god_data.json', 'r') as file:
+with open('smite_2_god_data_raw.json', 'r') as file:
     gods_data = json.load(file)
 
 # Define the base path for your images including the 'assets' folder

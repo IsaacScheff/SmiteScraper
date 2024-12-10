@@ -69,7 +69,7 @@ for god in GODLIST:
         character_data["Abilities"] = abilities
         all_gods_data.append(character_data)
 
-with open('smite_2_god_data.json', 'w') as f:
+with open('smite_2_god_data_raw.json', 'w') as f:
     json.dump(all_gods_data, f, indent=4)
 
 print("Data scraped and saved successfully.")
